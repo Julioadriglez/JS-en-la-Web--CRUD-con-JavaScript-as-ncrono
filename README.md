@@ -1,2 +1,5 @@
-# JS-en-la-Web--CRUD-con-JavaScript-asincrono
-Curso de Alura Latam One Oracle Next Education: Java Orientado a Objetos G3 - ONE--JS en la Web: CRUD con JavaScript asíncrono
+```js
+json-server --watch db.json
+```
+
+Browser sync: browser-sync start --server --file . --host --port 5000 --startPath screens/lista_cliente.html
